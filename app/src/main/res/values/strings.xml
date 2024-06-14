@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoinClickerGame</string>
+    <string name="music_toggle_button">Toggle Music</string>
+</resources>
